@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Google maps task</string>
     <string name="title_activity_maps">Map</string>
+    <string name="distance_between_you">Distance between you and</string>
+    <string name="distance_luxor">Luxor is:</string>
+    <string name="distance_cairo">Cairo is:</string>
+
 </resources>
